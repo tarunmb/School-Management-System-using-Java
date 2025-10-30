@@ -9,7 +9,7 @@ This project provides a clean GUI and demonstrates CRUD operations, database con
 
 This project allows school administrators to manage student and teacher data, handle subjects, maintain marks, and organize exams in a structured database-driven application.
 
-Originally inspired by [ProjectWorlds](https://projectworlds.com/school-management-system-project-using-java-mysql/).
+
 
 ---
 
@@ -76,3 +76,4 @@ Each module performs CRUD (Create, Read, Update, Delete) operations with proper 
    ```bash
    git clone https://github.com/tarunmb/School-Management-System-using-Java.git
    cd School-Management-System-using-Java
+
